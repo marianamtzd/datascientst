@@ -1,0 +1,1001 @@
+Tipo, Raza, Nombre, Color, Peso
+Gato,Dorado,Brownie,moteado,29
+Perro,Pastor Inglés,Manchas,miel,46
+Perro,Calicó,Pulgas,moteado,53
+Gato,Persa,Linus,negro,42
+Gato,Persa,Negro,moteado,45
+Gato,Chihuahua,Motitas,miel,41
+Perro,Siames,Brownie,café,18
+Gato,Cooker Spaniel,Moana,moteado,20
+Perro,Persa,Pulgas,pardo,53
+Perro,Siames,Bolita,naranja,6
+Perro,Pastor Inglés,Brownie,negro,40
+Perro,Dorado,Negro,pardo,24
+Gato,Pastor Alemán,Manchas,moteado,36
+Perro,Calicó,Motitas,blanco,29
+Gato,Maltés,Motitas,moteado,20
+Gato,Cooker Spaniel,Manchas,gris,1
+Gato,Persa,Bolita,café,24
+Gato,Pastor Alemán,Linus,moteado,16
+Gato,Calicó,Bolita,negro,20
+Gato,Chihuahua,Moana,blanco,23
+Perro,Pastor Inglés,Motitas,moteado,42
+Perro,Chihuahua,Brownie,café,31
+Gato,Pastor Inglés,Bishi,moteado,40
+Perro,Cooker Spaniel,Negro,blanco,23
+Gato,Maltés,Negro,moteado,14
+Gato,Persa,Manchas,café,39
+Gato,Maltés,Moana,negro,41
+Gato,Chihuahua,Bolita,naranja,7
+Gato,Siames,Moana,gris,26
+Gato,Pastor Alemán,Moana,miel,44
+Perro,Persa,Pulgas,moteado,59
+Perro,Dorado,Moana,negro,2
+Gato,Dorado,Bolita,café,16
+Gato,Maltés,Manchas,naranja,47
+Perro,Pastor Inglés,Pulgas,pardo,27
+Perro,Persa,Manchas,moteado,7
+Perro,Dorado,Bolita,naranja,43
+Gato,Cooker Spaniel,Motitas,negro,12
+Perro,Maltés,Manchas,miel,43
+Perro,Pastor Alemán,Moana,naranja,17
+Perro,Calicó,Motitas,moteado,52
+Gato,Siames,Negro,blanco,25
+Perro,Chihuahua,Negro,naranja,41
+Gato,Persa,Negro,blanco,6
+Gato,Chihuahua,Bishi,pardo,56
+Perro,Siames,Bolita,moteado,51
+Perro,Maltés,Negro,café,50
+Gato,Pastor Inglés,Pulgas,blanco,59
+Perro,Calicó,Motitas,gris,3
+Perro,Dorado,Linus,miel,42
+Perro,Cooker Spaniel,Motitas,moteado,13
+Perro,Maltés,Bishi,pardo,59
+Gato,Pastor Alemán,Moana,café,1
+Perro,Pastor Alemán,Brownie,naranja,23
+Gato,Pastor Inglés,Bolita,blanco,58
+Gato,Persa,Brownie,café,6
+Perro,Chihuahua,Bolita,pardo,5
+Gato,Maltés,Negro,miel,55
+Gato,Cooker Spaniel,Bishi,miel,25
+Gato,Pastor Inglés,Pulgas,blanco,51
+Perro,Calicó,Pulgas,moteado,37
+Perro,Chihuahua,Manchas,miel,11
+Gato,Pastor Inglés,Manchas,miel,24
+Perro,Persa,Bolita,moteado,19
+Gato,Chihuahua,Bolita,naranja,39
+Gato,Siames,Moana,moteado,3
+Gato,Siames,Linus,gris,44
+Perro,Siames,Motitas,miel,57
+Gato,Maltés,Moana,café,59
+Gato,Maltés,Motitas,naranja,46
+Gato,Calicó,Moana,café,52
+Gato,Cooker Spaniel,Negro,moteado,33
+Gato,Dorado,Negro,moteado,17
+Perro,Chihuahua,Pulgas,negro,54
+Perro,Pastor Inglés,Bishi,blanco,39
+Perro,Cooker Spaniel,Pulgas,café,7
+Gato,Calicó,Manchas,moteado,30
+Perro,Chihuahua,Linus,pardo,1
+Perro,Chihuahua,Moana,café,33
+Perro,Persa,Bolita,miel,19
+Gato,Siames,Pulgas,café,31
+Perro,Persa,Bishi,blanco,31
+Gato,Calicó,Bishi,pardo,32
+Gato,Dorado,Motitas,pardo,21
+Perro,Siames,Negro,blanco,41
+Gato,Pastor Alemán,Pulgas,blanco,40
+Gato,Chihuahua,Brownie,naranja,9
+Perro,Siames,Moana,miel,47
+Perro,Maltés,Pulgas,naranja,9
+Perro,Maltés,Pulgas,pardo,12
+Perro,Maltés,Bolita,blanco,48
+Perro,Pastor Alemán,Brownie,gris,58
+Perro,Persa,Motitas,pardo,21
+Perro,Chihuahua,Negro,miel,57
+Gato,Pastor Inglés,Manchas,blanco,29
+Gato,Chihuahua,Negro,pardo,41
+Gato,Pastor Inglés,Motitas,pardo,11
+Perro,Chihuahua,Moana,blanco,20
+Gato,Siames,Bishi,blanco,46
+Gato,Cooker Spaniel,Brownie,gris,12
+Perro,Maltés,Linus,blanco,25
+Perro,Siames,Linus,moteado,36
+Gato,Calicó,Linus,moteado,13
+Perro,Chihuahua,Pulgas,naranja,14
+Gato,Dorado,Bolita,negro,2
+Perro,Calicó,Pulgas,naranja,5
+Gato,Maltés,Brownie,pardo,5
+Gato,Maltés,Bishi,moteado,47
+Gato,Pastor Inglés,Motitas,gris,37
+Perro,Dorado,Linus,moteado,12
+Perro,Chihuahua,Brownie,gris,31
+Perro,Cooker Spaniel,Manchas,moteado,49
+Gato,Maltés,Brownie,blanco,1
+Gato,Siames,Bishi,café,46
+Perro,Persa,Moana,miel,49
+Perro,Pastor Alemán,Pulgas,negro,22
+Gato,Chihuahua,Manchas,café,27
+Perro,Maltés,Manchas,miel,34
+Gato,Calicó,Bolita,blanco,28
+Perro,Pastor Inglés,Bolita,blanco,46
+Gato,Pastor Alemán,Negro,moteado,7
+Gato,Chihuahua,Manchas,miel,52
+Perro,Maltés,Moana,café,41
+Gato,Siames,Brownie,moteado,1
+Gato,Chihuahua,Motitas,gris,8
+Perro,Dorado,Negro,blanco,54
+Perro,Pastor Alemán,Bolita,café,1
+Perro,Persa,Brownie,miel,25
+Perro,Chihuahua,Moana,gris,21
+Gato,Calicó,Negro,miel,56
+Perro,Chihuahua,Pulgas,naranja,30
+Gato,Chihuahua,Pulgas,negro,17
+Perro,Calicó,Motitas,pardo,2
+Gato,Maltés,Linus,pardo,33
+Gato,Dorado,Moana,negro,49
+Perro,Maltés,Brownie,negro,7
+Gato,Chihuahua,Bishi,blanco,41
+Gato,Chihuahua,Moana,blanco,3
+Perro,Pastor Inglés,Bolita,pardo,39
+Perro,Calicó,Bolita,blanco,46
+Perro,Pastor Inglés,Bishi,negro,36
+Gato,Calicó,Brownie,gris,34
+Gato,Chihuahua,Pulgas,blanco,14
+Gato,Pastor Alemán,Pulgas,miel,3
+Gato,Chihuahua,Linus,moteado,19
+Gato,Chihuahua,Brownie,gris,54
+Gato,Pastor Alemán,Negro,pardo,5
+Gato,Pastor Inglés,Bolita,pardo,28
+Perro,Pastor Inglés,Manchas,naranja,30
+Perro,Pastor Inglés,Linus,naranja,22
+Gato,Chihuahua,Negro,café,59
+Gato,Dorado,Bolita,negro,22
+Perro,Calicó,Motitas,moteado,33
+Gato,Cooker Spaniel,Bolita,blanco,11
+Perro,Siames,Linus,moteado,21
+Perro,Pastor Alemán,Linus,miel,7
+Perro,Cooker Spaniel,Bishi,café,56
+Perro,Persa,Negro,miel,13
+Gato,Persa,Bishi,blanco,32
+Gato,Siames,Linus,naranja,48
+Perro,Dorado,Negro,pardo,26
+Gato,Cooker Spaniel,Brownie,miel,47
+Perro,Pastor Alemán,Manchas,miel,20
+Gato,Dorado,Moana,blanco,35
+Gato,Persa,Motitas,pardo,28
+Perro,Pastor Inglés,Linus,gris,51
+Perro,Calicó,Bishi,pardo,7
+Gato,Chihuahua,Bolita,pardo,19
+Gato,Pastor Alemán,Bolita,miel,34
+Perro,Persa,Motitas,blanco,11
+Gato,Dorado,Brownie,miel,58
+Perro,Pastor Inglés,Pulgas,miel,47
+Gato,Dorado,Bolita,gris,27
+Gato,Pastor Inglés,Moana,naranja,52
+Perro,Pastor Alemán,Motitas,blanco,24
+Gato,Maltés,Moana,naranja,56
+Perro,Pastor Alemán,Manchas,moteado,18
+Perro,Maltés,Moana,miel,46
+Gato,Cooker Spaniel,Linus,naranja,25
+Perro,Chihuahua,Moana,blanco,41
+Perro,Pastor Inglés,Motitas,gris,2
+Perro,Maltés,Manchas,pardo,29
+Gato,Maltés,Motitas,moteado,4
+Gato,Cooker Spaniel,Motitas,negro,9
+Perro,Siames,Motitas,gris,49
+Gato,Siames,Moana,blanco,31
+Perro,Siames,Bishi,naranja,30
+Gato,Calicó,Manchas,gris,53
+Gato,Calicó,Bolita,pardo,37
+Perro,Dorado,Manchas,gris,34
+Perro,Cooker Spaniel,Bolita,miel,32
+Perro,Siames,Moana,café,33
+Perro,Dorado,Negro,pardo,7
+Gato,Persa,Bishi,negro,36
+Perro,Dorado,Pulgas,moteado,49
+Gato,Maltés,Motitas,negro,46
+Perro,Calicó,Moana,moteado,10
+Perro,Cooker Spaniel,Linus,naranja,46
+Gato,Pastor Alemán,Manchas,pardo,8
+Gato,Persa,Linus,negro,4
+Perro,Pastor Alemán,Manchas,miel,41
+Perro,Persa,Bishi,moteado,14
+Gato,Pastor Inglés,Negro,moteado,59
+Perro,Maltés,Brownie,naranja,44
+Perro,Calicó,Negro,café,4
+Perro,Maltés,Pulgas,blanco,31
+Gato,Maltés,Motitas,naranja,40
+Perro,Cooker Spaniel,Negro,negro,59
+Perro,Siames,Bolita,gris,44
+Gato,Cooker Spaniel,Manchas,moteado,7
+Perro,Pastor Alemán,Pulgas,gris,47
+Gato,Pastor Alemán,Brownie,moteado,4
+Gato,Dorado,Brownie,pardo,42
+Gato,Pastor Inglés,Brownie,café,3
+Gato,Pastor Alemán,Negro,miel,40
+Gato,Pastor Alemán,Bolita,moteado,40
+Perro,Dorado,Linus,café,28
+Perro,Siames,Pulgas,café,44
+Gato,Persa,Manchas,gris,23
+Perro,Calicó,Moana,naranja,39
+Perro,Maltés,Moana,blanco,25
+Perro,Cooker Spaniel,Motitas,gris,13
+Gato,Pastor Inglés,Manchas,negro,4
+Perro,Pastor Alemán,Motitas,miel,24
+Gato,Dorado,Pulgas,gris,23
+Perro,Cooker Spaniel,Moana,naranja,19
+Gato,Dorado,Motitas,café,50
+Gato,Pastor Alemán,Negro,gris,48
+Perro,Pastor Alemán,Brownie,café,45
+Perro,Maltés,Pulgas,naranja,12
+Perro,Chihuahua,Manchas,pardo,57
+Perro,Dorado,Brownie,gris,50
+Perro,Persa,Brownie,naranja,55
+Gato,Cooker Spaniel,Motitas,gris,13
+Gato,Dorado,Bolita,blanco,28
+Perro,Persa,Moana,moteado,45
+Perro,Pastor Alemán,Moana,café,21
+Perro,Chihuahua,Bishi,blanco,1
+Perro,Pastor Inglés,Moana,negro,33
+Perro,Pastor Alemán,Moana,negro,37
+Gato,Pastor Alemán,Bolita,moteado,28
+Gato,Pastor Alemán,Manchas,moteado,31
+Perro,Cooker Spaniel,Negro,blanco,29
+Gato,Cooker Spaniel,Negro,blanco,1
+Gato,Calicó,Linus,pardo,13
+Perro,Dorado,Negro,naranja,47
+Perro,Siames,Pulgas,blanco,7
+Gato,Pastor Alemán,Linus,blanco,3
+Gato,Cooker Spaniel,Brownie,negro,22
+Gato,Persa,Motitas,naranja,35
+Gato,Pastor Inglés,Moana,miel,31
+Gato,Dorado,Moana,negro,41
+Perro,Pastor Alemán,Bolita,gris,16
+Gato,Dorado,Manchas,moteado,60
+Perro,Maltés,Moana,naranja,41
+Perro,Maltés,Moana,negro,54
+Gato,Dorado,Pulgas,moteado,56
+Perro,Dorado,Bolita,moteado,42
+Perro,Chihuahua,Pulgas,moteado,2
+Perro,Dorado,Moana,miel,22
+Perro,Chihuahua,Linus,pardo,28
+Gato,Pastor Inglés,Brownie,miel,26
+Perro,Calicó,Bishi,café,6
+Gato,Pastor Inglés,Bishi,moteado,24
+Gato,Dorado,Linus,pardo,36
+Perro,Pastor Alemán,Moana,blanco,36
+Perro,Cooker Spaniel,Bishi,miel,15
+Gato,Persa,Linus,moteado,19
+Gato,Pastor Inglés,Negro,moteado,9
+Perro,Pastor Inglés,Motitas,blanco,56
+Perro,Maltés,Linus,negro,3
+Gato,Siames,Manchas,café,36
+Gato,Persa,Manchas,moteado,25
+Perro,Siames,Linus,negro,55
+Perro,Calicó,Negro,miel,33
+Gato,Calicó,Pulgas,pardo,2
+Gato,Calicó,Negro,negro,10
+Perro,Dorado,Pulgas,miel,8
+Perro,Maltés,Brownie,moteado,7
+Perro,Maltés,Bolita,gris,46
+Perro,Cooker Spaniel,Motitas,pardo,10
+Perro,Calicó,Negro,naranja,26
+Perro,Dorado,Negro,gris,28
+Gato,Maltés,Brownie,café,46
+Perro,Calicó,Brownie,naranja,31
+Gato,Chihuahua,Negro,moteado,55
+Perro,Calicó,Bolita,negro,47
+Perro,Pastor Inglés,Brownie,miel,32
+Gato,Chihuahua,Moana,gris,3
+Gato,Dorado,Moana,pardo,8
+Gato,Maltés,Linus,moteado,13
+Gato,Pastor Inglés,Linus,negro,59
+Gato,Pastor Inglés,Moana,naranja,23
+Gato,Calicó,Pulgas,gris,53
+Gato,Cooker Spaniel,Bolita,naranja,9
+Gato,Pastor Inglés,Pulgas,pardo,4
+Gato,Pastor Alemán,Bolita,blanco,41
+Perro,Chihuahua,Motitas,naranja,41
+Perro,Persa,Linus,miel,8
+Gato,Pastor Alemán,Motitas,pardo,27
+Gato,Maltés,Moana,gris,56
+Gato,Maltés,Brownie,gris,50
+Gato,Chihuahua,Bolita,negro,30
+Perro,Cooker Spaniel,Motitas,pardo,6
+Perro,Pastor Inglés,Linus,miel,11
+Perro,Maltés,Negro,miel,33
+Perro,Calicó,Linus,moteado,42
+Gato,Siames,Bishi,pardo,49
+Perro,Calicó,Brownie,negro,25
+Perro,Pastor Alemán,Moana,blanco,27
+Perro,Pastor Inglés,Brownie,miel,20
+Gato,Chihuahua,Manchas,naranja,35
+Gato,Cooker Spaniel,Motitas,pardo,6
+Gato,Pastor Inglés,Brownie,gris,32
+Gato,Chihuahua,Pulgas,blanco,24
+Perro,Cooker Spaniel,Manchas,blanco,18
+Gato,Chihuahua,Bishi,café,13
+Perro,Pastor Inglés,Negro,naranja,18
+Perro,Siames,Moana,moteado,23
+Gato,Persa,Moana,naranja,15
+Gato,Maltés,Negro,miel,45
+Gato,Cooker Spaniel,Bolita,negro,36
+Gato,Calicó,Moana,café,20
+Gato,Dorado,Motitas,moteado,3
+Perro,Siames,Negro,café,53
+Perro,Siames,Brownie,moteado,40
+Perro,Dorado,Bishi,pardo,57
+Gato,Pastor Alemán,Linus,gris,28
+Perro,Chihuahua,Bishi,negro,40
+Gato,Dorado,Bolita,café,26
+Perro,Siames,Bishi,gris,47
+Perro,Dorado,Linus,moteado,16
+Gato,Dorado,Pulgas,miel,52
+Gato,Cooker Spaniel,Moana,naranja,59
+Gato,Pastor Inglés,Linus,blanco,52
+Gato,Maltés,Linus,pardo,15
+Gato,Pastor Inglés,Brownie,blanco,22
+Perro,Dorado,Manchas,negro,29
+Perro,Calicó,Manchas,moteado,13
+Gato,Calicó,Bolita,gris,20
+Gato,Dorado,Linus,negro,48
+Perro,Siames,Motitas,moteado,14
+Perro,Cooker Spaniel,Brownie,moteado,15
+Gato,Pastor Inglés,Bolita,negro,44
+Perro,Persa,Brownie,pardo,50
+Gato,Dorado,Motitas,miel,51
+Perro,Dorado,Manchas,café,21
+Perro,Calicó,Moana,café,16
+Perro,Siames,Brownie,miel,46
+Gato,Chihuahua,Bishi,blanco,44
+Perro,Persa,Manchas,café,19
+Perro,Persa,Bishi,negro,58
+Gato,Dorado,Negro,naranja,52
+Gato,Pastor Alemán,Motitas,miel,59
+Perro,Persa,Pulgas,miel,1
+Gato,Maltés,Pulgas,pardo,16
+Perro,Pastor Alemán,Brownie,miel,50
+Perro,Siames,Linus,gris,43
+Perro,Persa,Brownie,gris,50
+Perro,Dorado,Negro,café,60
+Perro,Cooker Spaniel,Linus,pardo,10
+Perro,Pastor Inglés,Moana,negro,33
+Gato,Chihuahua,Manchas,naranja,29
+Perro,Chihuahua,Motitas,naranja,13
+Gato,Calicó,Manchas,gris,57
+Perro,Calicó,Bishi,blanco,10
+Gato,Persa,Manchas,miel,35
+Gato,Calicó,Brownie,negro,1
+Gato,Siames,Pulgas,gris,45
+Gato,Persa,Pulgas,gris,32
+Gato,Cooker Spaniel,Negro,naranja,57
+Gato,Maltés,Bishi,miel,50
+Perro,Cooker Spaniel,Linus,negro,17
+Perro,Maltés,Bishi,blanco,43
+Gato,Dorado,Moana,pardo,41
+Gato,Chihuahua,Brownie,moteado,52
+Gato,Persa,Moana,negro,28
+Perro,Maltés,Bolita,gris,42
+Gato,Cooker Spaniel,Manchas,café,28
+Gato,Siames,Moana,blanco,26
+Gato,Maltés,Bolita,pardo,7
+Gato,Pastor Inglés,Bolita,blanco,36
+Gato,Pastor Alemán,Bishi,moteado,24
+Gato,Pastor Alemán,Motitas,moteado,5
+Perro,Dorado,Brownie,moteado,45
+Gato,Pastor Inglés,Brownie,blanco,49
+Gato,Pastor Inglés,Negro,naranja,13
+Gato,Maltés,Manchas,pardo,50
+Perro,Siames,Negro,naranja,28
+Gato,Dorado,Negro,naranja,54
+Perro,Persa,Motitas,negro,36
+Perro,Siames,Moana,naranja,42
+Perro,Siames,Manchas,miel,17
+Perro,Persa,Linus,naranja,49
+Gato,Cooker Spaniel,Moana,moteado,9
+Gato,Calicó,Moana,café,25
+Gato,Dorado,Manchas,pardo,44
+Gato,Cooker Spaniel,Manchas,miel,14
+Perro,Cooker Spaniel,Motitas,miel,26
+Gato,Cooker Spaniel,Bishi,miel,24
+Gato,Persa,Brownie,miel,19
+Gato,Siames,Bishi,pardo,47
+Perro,Siames,Moana,pardo,2
+Gato,Pastor Alemán,Bishi,gris,50
+Gato,Pastor Alemán,Brownie,blanco,23
+Perro,Chihuahua,Bolita,blanco,51
+Gato,Calicó,Manchas,naranja,51
+Gato,Chihuahua,Moana,gris,58
+Gato,Dorado,Linus,pardo,31
+Perro,Cooker Spaniel,Linus,gris,55
+Gato,Pastor Inglés,Moana,moteado,1
+Gato,Pastor Inglés,Manchas,blanco,41
+Perro,Cooker Spaniel,Motitas,café,47
+Perro,Siames,Pulgas,blanco,19
+Perro,Dorado,Bolita,moteado,37
+Gato,Dorado,Bolita,negro,27
+Gato,Persa,Motitas,gris,49
+Perro,Siames,Moana,miel,38
+Gato,Pastor Inglés,Linus,miel,18
+Gato,Siames,Manchas,naranja,37
+Perro,Cooker Spaniel,Manchas,café,49
+Perro,Calicó,Pulgas,naranja,7
+Perro,Pastor Alemán,Linus,naranja,26
+Gato,Maltés,Brownie,gris,3
+Gato,Cooker Spaniel,Pulgas,moteado,32
+Perro,Cooker Spaniel,Linus,miel,31
+Gato,Persa,Moana,pardo,3
+Gato,Persa,Linus,gris,59
+Gato,Persa,Moana,miel,31
+Perro,Pastor Alemán,Linus,miel,13
+Gato,Persa,Manchas,blanco,35
+Perro,Maltés,Linus,gris,59
+Perro,Siames,Bolita,naranja,31
+Perro,Pastor Inglés,Moana,negro,46
+Perro,Pastor Inglés,Bishi,negro,57
+Perro,Dorado,Motitas,pardo,5
+Perro,Siames,Manchas,blanco,20
+Gato,Calicó,Bolita,moteado,11
+Gato,Siames,Brownie,miel,1
+Perro,Dorado,Bishi,blanco,19
+Gato,Siames,Bolita,miel,19
+Perro,Cooker Spaniel,Moana,gris,39
+Perro,Calicó,Brownie,café,48
+Gato,Pastor Alemán,Motitas,gris,32
+Gato,Siames,Moana,naranja,8
+Gato,Pastor Alemán,Motitas,moteado,54
+Gato,Siames,Manchas,negro,22
+Perro,Calicó,Bolita,blanco,8
+Gato,Calicó,Manchas,moteado,11
+Gato,Dorado,Bishi,negro,22
+Gato,Chihuahua,Negro,pardo,6
+Gato,Pastor Alemán,Pulgas,naranja,36
+Gato,Calicó,Bishi,café,50
+Gato,Cooker Spaniel,Linus,moteado,28
+Gato,Siames,Bishi,negro,59
+Perro,Pastor Inglés,Moana,gris,57
+Gato,Chihuahua,Linus,moteado,37
+Gato,Maltés,Manchas,negro,58
+Gato,Persa,Negro,moteado,13
+Perro,Dorado,Moana,miel,41
+Perro,Pastor Inglés,Bishi,pardo,52
+Gato,Persa,Brownie,negro,53
+Gato,Persa,Moana,gris,31
+Gato,Cooker Spaniel,Brownie,moteado,7
+Gato,Persa,Bishi,gris,5
+Perro,Pastor Alemán,Linus,moteado,36
+Perro,Siames,Bolita,gris,21
+Perro,Pastor Inglés,Motitas,café,8
+Gato,Chihuahua,Bishi,café,13
+Gato,Pastor Inglés,Pulgas,café,59
+Gato,Persa,Moana,pardo,3
+Perro,Dorado,Manchas,naranja,54
+Gato,Pastor Alemán,Linus,gris,25
+Perro,Calicó,Brownie,negro,54
+Perro,Pastor Inglés,Linus,moteado,32
+Gato,Dorado,Pulgas,naranja,39
+Perro,Dorado,Manchas,naranja,60
+Gato,Pastor Alemán,Bishi,negro,56
+Perro,Persa,Moana,blanco,27
+Gato,Maltés,Linus,pardo,25
+Perro,Dorado,Bolita,miel,8
+Gato,Persa,Manchas,miel,24
+Perro,Pastor Inglés,Brownie,pardo,13
+Perro,Chihuahua,Moana,moteado,34
+Perro,Persa,Motitas,blanco,12
+Gato,Dorado,Manchas,blanco,30
+Gato,Chihuahua,Moana,negro,49
+Perro,Dorado,Moana,miel,31
+Perro,Pastor Alemán,Manchas,moteado,59
+Gato,Cooker Spaniel,Bolita,gris,7
+Gato,Pastor Inglés,Bolita,café,22
+Gato,Calicó,Pulgas,miel,50
+Gato,Pastor Inglés,Manchas,moteado,7
+Gato,Pastor Inglés,Bolita,pardo,30
+Gato,Siames,Negro,café,8
+Gato,Siames,Pulgas,moteado,38
+Perro,Maltés,Negro,pardo,32
+Perro,Persa,Pulgas,negro,13
+Gato,Cooker Spaniel,Linus,café,28
+Gato,Siames,Motitas,café,1
+Gato,Pastor Alemán,Negro,blanco,31
+Perro,Persa,Pulgas,pardo,16
+Gato,Calicó,Motitas,naranja,8
+Gato,Pastor Inglés,Negro,moteado,7
+Gato,Chihuahua,Manchas,miel,9
+Gato,Cooker Spaniel,Brownie,café,59
+Gato,Cooker Spaniel,Negro,negro,49
+Perro,Calicó,Negro,blanco,50
+Gato,Pastor Alemán,Brownie,blanco,34
+Gato,Maltés,Manchas,negro,37
+Perro,Maltés,Pulgas,pardo,57
+Gato,Siames,Linus,negro,42
+Perro,Calicó,Motitas,naranja,29
+Perro,Chihuahua,Negro,moteado,42
+Gato,Pastor Alemán,Moana,blanco,36
+Gato,Chihuahua,Bolita,pardo,23
+Perro,Pastor Alemán,Motitas,gris,47
+Gato,Dorado,Bolita,naranja,8
+Perro,Maltés,Linus,blanco,54
+Perro,Cooker Spaniel,Motitas,negro,45
+Gato,Maltés,Bishi,negro,11
+Perro,Maltés,Pulgas,miel,50
+Gato,Dorado,Brownie,naranja,44
+Gato,Persa,Bishi,negro,33
+Perro,Pastor Inglés,Brownie,café,22
+Perro,Pastor Inglés,Pulgas,pardo,30
+Perro,Chihuahua,Moana,negro,13
+Perro,Cooker Spaniel,Pulgas,pardo,15
+Gato,Pastor Inglés,Bolita,negro,33
+Gato,Pastor Inglés,Bolita,naranja,60
+Perro,Pastor Alemán,Moana,gris,31
+Gato,Dorado,Bolita,miel,9
+Perro,Dorado,Brownie,blanco,3
+Gato,Maltés,Moana,blanco,57
+Gato,Maltés,Motitas,miel,31
+Perro,Pastor Alemán,Linus,gris,40
+Perro,Siames,Motitas,miel,18
+Gato,Persa,Motitas,miel,4
+Perro,Cooker Spaniel,Bishi,negro,39
+Perro,Calicó,Bolita,gris,24
+Gato,Maltés,Pulgas,café,49
+Gato,Siames,Moana,naranja,56
+Gato,Pastor Alemán,Bishi,naranja,1
+Perro,Dorado,Moana,blanco,24
+Gato,Cooker Spaniel,Manchas,café,21
+Gato,Calicó,Bolita,moteado,52
+Gato,Maltés,Negro,miel,12
+Gato,Siames,Motitas,café,23
+Perro,Pastor Alemán,Linus,moteado,18
+Perro,Maltés,Bishi,café,57
+Gato,Dorado,Brownie,pardo,33
+Perro,Maltés,Motitas,negro,34
+Gato,Maltés,Pulgas,naranja,3
+Perro,Dorado,Manchas,café,36
+Gato,Chihuahua,Pulgas,pardo,51
+Gato,Chihuahua,Moana,moteado,59
+Gato,Maltés,Linus,pardo,12
+Perro,Cooker Spaniel,Pulgas,café,49
+Gato,Calicó,Negro,miel,23
+Perro,Persa,Pulgas,blanco,42
+Perro,Siames,Moana,moteado,28
+Perro,Cooker Spaniel,Linus,blanco,14
+Perro,Maltés,Brownie,pardo,7
+Gato,Pastor Alemán,Linus,naranja,59
+Gato,Siames,Bolita,café,29
+Gato,Siames,Negro,moteado,11
+Perro,Cooker Spaniel,Bishi,blanco,60
+Gato,Chihuahua,Moana,negro,34
+Gato,Calicó,Bolita,negro,53
+Perro,Cooker Spaniel,Moana,moteado,18
+Perro,Chihuahua,Bolita,naranja,8
+Perro,Calicó,Manchas,naranja,32
+Perro,Calicó,Bishi,pardo,57
+Perro,Dorado,Pulgas,moteado,23
+Perro,Calicó,Manchas,blanco,60
+Perro,Pastor Alemán,Brownie,café,2
+Gato,Maltés,Bishi,blanco,3
+Perro,Cooker Spaniel,Manchas,negro,33
+Perro,Maltés,Linus,naranja,46
+Perro,Chihuahua,Motitas,negro,29
+Gato,Dorado,Moana,moteado,23
+Perro,Calicó,Brownie,blanco,40
+Gato,Chihuahua,Motitas,café,26
+Perro,Persa,Negro,pardo,33
+Gato,Chihuahua,Bishi,miel,15
+Gato,Calicó,Motitas,miel,44
+Gato,Chihuahua,Brownie,pardo,18
+Perro,Calicó,Linus,moteado,58
+Perro,Pastor Alemán,Bolita,moteado,49
+Gato,Cooker Spaniel,Motitas,naranja,51
+Perro,Chihuahua,Negro,negro,25
+Gato,Maltés,Bishi,miel,32
+Gato,Siames,Moana,café,38
+Gato,Chihuahua,Moana,negro,7
+Gato,Maltés,Bolita,blanco,53
+Gato,Cooker Spaniel,Bolita,pardo,54
+Gato,Pastor Alemán,Brownie,naranja,45
+Gato,Dorado,Moana,pardo,50
+Perro,Persa,Brownie,moteado,22
+Gato,Persa,Bishi,miel,50
+Perro,Persa,Brownie,blanco,36
+Perro,Dorado,Manchas,miel,6
+Perro,Persa,Linus,negro,60
+Perro,Cooker Spaniel,Bolita,café,48
+Perro,Maltés,Brownie,naranja,5
+Perro,Maltés,Bolita,blanco,28
+Perro,Pastor Alemán,Motitas,café,1
+Gato,Chihuahua,Motitas,miel,15
+Gato,Persa,Linus,gris,31
+Perro,Persa,Manchas,moteado,5
+Perro,Persa,Manchas,naranja,52
+Perro,Chihuahua,Manchas,moteado,23
+Gato,Pastor Alemán,Motitas,miel,49
+Gato,Persa,Motitas,naranja,49
+Perro,Cooker Spaniel,Moana,gris,35
+Perro,Chihuahua,Moana,café,12
+Gato,Chihuahua,Brownie,naranja,30
+Gato,Maltés,Brownie,negro,58
+Perro,Pastor Alemán,Negro,naranja,46
+Perro,Siames,Manchas,moteado,10
+Gato,Chihuahua,Pulgas,gris,34
+Perro,Persa,Negro,negro,58
+Perro,Pastor Inglés,Bishi,café,59
+Gato,Pastor Alemán,Brownie,negro,50
+Perro,Pastor Inglés,Pulgas,café,60
+Gato,Persa,Negro,negro,25
+Gato,Pastor Inglés,Negro,pardo,45
+Gato,Cooker Spaniel,Bishi,negro,54
+Gato,Persa,Negro,pardo,5
+Perro,Pastor Alemán,Brownie,naranja,59
+Gato,Pastor Inglés,Brownie,pardo,9
+Gato,Siames,Pulgas,café,9
+Gato,Siames,Manchas,pardo,60
+Perro,Persa,Negro,blanco,3
+Gato,Persa,Bishi,pardo,13
+Perro,Calicó,Moana,gris,26
+Gato,Siames,Negro,café,54
+Perro,Calicó,Manchas,café,6
+Perro,Calicó,Bishi,negro,6
+Perro,Pastor Alemán,Brownie,pardo,55
+Gato,Dorado,Bishi,miel,56
+Perro,Dorado,Bishi,moteado,27
+Gato,Chihuahua,Moana,pardo,33
+Perro,Calicó,Linus,negro,47
+Perro,Calicó,Moana,naranja,37
+Perro,Maltés,Bolita,negro,19
+Gato,Siames,Negro,miel,54
+Gato,Dorado,Pulgas,gris,17
+Gato,Persa,Linus,miel,20
+Perro,Cooker Spaniel,Negro,naranja,48
+Gato,Siames,Negro,café,58
+Gato,Cooker Spaniel,Manchas,miel,59
+Gato,Chihuahua,Manchas,moteado,14
+Perro,Chihuahua,Bishi,moteado,41
+Perro,Cooker Spaniel,Moana,blanco,13
+Gato,Siames,Manchas,moteado,4
+Gato,Calicó,Pulgas,miel,21
+Gato,Calicó,Negro,blanco,37
+Perro,Cooker Spaniel,Linus,pardo,6
+Perro,Siames,Manchas,negro,60
+Perro,Chihuahua,Manchas,naranja,42
+Gato,Chihuahua,Bishi,moteado,36
+Perro,Chihuahua,Motitas,naranja,33
+Perro,Persa,Motitas,moteado,57
+Perro,Dorado,Motitas,naranja,8
+Perro,Maltés,Bolita,gris,50
+Gato,Calicó,Brownie,café,6
+Gato,Pastor Inglés,Motitas,blanco,44
+Gato,Persa,Moana,gris,51
+Perro,Siames,Moana,blanco,39
+Perro,Chihuahua,Motitas,gris,7
+Gato,Dorado,Negro,blanco,45
+Perro,Calicó,Manchas,negro,32
+Perro,Pastor Inglés,Motitas,miel,34
+Gato,Persa,Moana,gris,47
+Gato,Pastor Inglés,Moana,café,47
+Perro,Chihuahua,Motitas,blanco,9
+Perro,Pastor Alemán,Negro,pardo,22
+Gato,Cooker Spaniel,Bishi,café,41
+Perro,Persa,Negro,moteado,31
+Gato,Calicó,Bolita,blanco,8
+Gato,Dorado,Linus,café,23
+Perro,Calicó,Linus,miel,16
+Perro,Chihuahua,Manchas,moteado,1
+Perro,Pastor Inglés,Negro,negro,34
+Gato,Maltés,Brownie,negro,19
+Perro,Chihuahua,Bishi,gris,17
+Gato,Chihuahua,Linus,blanco,50
+Gato,Chihuahua,Bishi,pardo,27
+Gato,Pastor Alemán,Negro,negro,27
+Gato,Pastor Inglés,Negro,moteado,44
+Gato,Maltés,Pulgas,café,16
+Perro,Dorado,Negro,miel,4
+Perro,Maltés,Pulgas,naranja,51
+Gato,Calicó,Manchas,miel,39
+Gato,Cooker Spaniel,Bolita,pardo,37
+Gato,Pastor Inglés,Brownie,blanco,52
+Perro,Pastor Alemán,Linus,moteado,37
+Gato,Dorado,Bolita,blanco,26
+Gato,Persa,Bishi,pardo,9
+Gato,Persa,Motitas,pardo,18
+Gato,Siames,Motitas,pardo,31
+Gato,Dorado,Brownie,gris,29
+Gato,Cooker Spaniel,Moana,moteado,8
+Perro,Dorado,Motitas,moteado,27
+Gato,Pastor Inglés,Moana,gris,1
+Gato,Maltés,Linus,miel,18
+Gato,Chihuahua,Pulgas,café,11
+Gato,Pastor Alemán,Negro,moteado,55
+Perro,Chihuahua,Moana,moteado,49
+Gato,Chihuahua,Brownie,gris,51
+Gato,Maltés,Bishi,pardo,51
+Gato,Pastor Alemán,Moana,gris,23
+Perro,Chihuahua,Motitas,miel,12
+Perro,Maltés,Pulgas,moteado,47
+Gato,Persa,Brownie,moteado,24
+Perro,Dorado,Bishi,gris,38
+Perro,Cooker Spaniel,Motitas,negro,54
+Perro,Calicó,Pulgas,moteado,1
+Perro,Persa,Brownie,negro,15
+Perro,Calicó,Brownie,negro,34
+Perro,Calicó,Pulgas,café,53
+Gato,Pastor Alemán,Negro,blanco,54
+Perro,Persa,Manchas,naranja,51
+Gato,Dorado,Moana,pardo,56
+Perro,Pastor Alemán,Brownie,miel,21
+Gato,Persa,Manchas,gris,10
+Gato,Dorado,Bishi,café,27
+Perro,Maltés,Negro,gris,32
+Gato,Cooker Spaniel,Bolita,negro,11
+Perro,Dorado,Bolita,miel,32
+Perro,Siames,Bishi,blanco,37
+Gato,Siames,Motitas,naranja,60
+Perro,Siames,Manchas,blanco,60
+Perro,Pastor Inglés,Linus,blanco,26
+Gato,Cooker Spaniel,Linus,negro,25
+Gato,Maltés,Pulgas,moteado,54
+Perro,Calicó,Pulgas,café,24
+Perro,Persa,Brownie,negro,9
+Gato,Siames,Bishi,miel,3
+Perro,Dorado,Moana,gris,58
+Gato,Dorado,Moana,naranja,50
+Perro,Dorado,Negro,café,13
+Perro,Dorado,Pulgas,blanco,37
+Gato,Cooker Spaniel,Moana,moteado,47
+Gato,Siames,Pulgas,miel,32
+Perro,Pastor Alemán,Brownie,miel,5
+Perro,Chihuahua,Brownie,moteado,15
+Gato,Chihuahua,Motitas,negro,4
+Gato,Calicó,Moana,naranja,58
+Gato,Pastor Alemán,Negro,negro,59
+Gato,Dorado,Motitas,naranja,33
+Gato,Siames,Brownie,gris,7
+Gato,Chihuahua,Pulgas,miel,18
+Gato,Cooker Spaniel,Manchas,moteado,17
+Perro,Siames,Negro,miel,50
+Gato,Siames,Bishi,moteado,53
+Gato,Siames,Bolita,café,26
+Gato,Pastor Alemán,Motitas,negro,33
+Perro,Calicó,Moana,naranja,34
+Perro,Cooker Spaniel,Manchas,pardo,37
+Gato,Pastor Alemán,Linus,negro,59
+Perro,Pastor Inglés,Linus,miel,53
+Perro,Chihuahua,Linus,gris,15
+Perro,Chihuahua,Bolita,café,10
+Gato,Cooker Spaniel,Bishi,miel,36
+Perro,Chihuahua,Bishi,pardo,17
+Perro,Cooker Spaniel,Bishi,miel,12
+Gato,Maltés,Linus,café,45
+Gato,Calicó,Bolita,negro,2
+Perro,Persa,Motitas,café,57
+Gato,Calicó,Linus,blanco,1
+Perro,Cooker Spaniel,Pulgas,gris,10
+Perro,Chihuahua,Linus,café,28
+Perro,Persa,Brownie,miel,3
+Gato,Calicó,Manchas,café,51
+Gato,Cooker Spaniel,Negro,blanco,33
+Gato,Cooker Spaniel,Linus,gris,12
+Gato,Calicó,Linus,moteado,7
+Gato,Cooker Spaniel,Pulgas,naranja,43
+Perro,Persa,Bolita,pardo,47
+Perro,Pastor Inglés,Motitas,café,54
+Perro,Chihuahua,Manchas,moteado,17
+Perro,Dorado,Bishi,miel,51
+Perro,Siames,Manchas,gris,10
+Perro,Persa,Bolita,naranja,19
+Gato,Siames,Manchas,moteado,11
+Gato,Cooker Spaniel,Bolita,moteado,50
+Gato,Siames,Pulgas,café,45
+Perro,Pastor Alemán,Negro,moteado,25
+Gato,Maltés,Moana,naranja,30
+Perro,Persa,Bishi,miel,42
+Gato,Pastor Alemán,Linus,miel,52
+Gato,Maltés,Bishi,blanco,44
+Gato,Maltés,Pulgas,blanco,26
+Perro,Maltés,Motitas,negro,31
+Perro,Cooker Spaniel,Brownie,naranja,52
+Gato,Pastor Alemán,Pulgas,blanco,47
+Perro,Cooker Spaniel,Negro,gris,1
+Gato,Maltés,Bolita,miel,32
+Perro,Maltés,Bishi,miel,42
+Gato,Cooker Spaniel,Bishi,moteado,38
+Perro,Maltés,Negro,blanco,27
+Perro,Calicó,Moana,miel,33
+Perro,Chihuahua,Pulgas,café,12
+Perro,Chihuahua,Bishi,negro,20
+Gato,Maltés,Motitas,miel,39
+Gato,Pastor Inglés,Linus,café,31
+Gato,Siames,Linus,blanco,46
+Perro,Siames,Brownie,negro,17
+Gato,Maltés,Brownie,negro,8
+Gato,Pastor Inglés,Manchas,naranja,42
+Gato,Calicó,Negro,gris,3
+Gato,Cooker Spaniel,Negro,pardo,27
+Perro,Calicó,Manchas,miel,32
+Gato,Chihuahua,Pulgas,miel,39
+Perro,Pastor Inglés,Manchas,gris,40
+Perro,Calicó,Motitas,café,42
+Perro,Calicó,Negro,negro,18
+Gato,Calicó,Brownie,miel,57
+Gato,Pastor Inglés,Motitas,pardo,5
+Perro,Pastor Alemán,Bolita,miel,40
+Perro,Calicó,Manchas,café,19
+Gato,Persa,Manchas,naranja,26
+Perro,Pastor Alemán,Bishi,moteado,46
+Gato,Pastor Alemán,Motitas,negro,57
+Gato,Cooker Spaniel,Pulgas,negro,36
+Perro,Persa,Linus,naranja,29
+Gato,Pastor Inglés,Moana,naranja,31
+Perro,Calicó,Negro,miel,52
+Perro,Persa,Motitas,moteado,2
+Perro,Dorado,Bolita,café,7
+Perro,Calicó,Bolita,gris,20
+Gato,Persa,Bishi,café,37
+Gato,Chihuahua,Bolita,pardo,49
+Perro,Siames,Pulgas,moteado,5
+Perro,Pastor Inglés,Pulgas,pardo,39
+Gato,Maltés,Negro,naranja,27
+Gato,Dorado,Linus,moteado,35
+Gato,Siames,Manchas,gris,32
+Gato,Persa,Negro,pardo,19
+Perro,Chihuahua,Bishi,pardo,43
+Perro,Pastor Alemán,Motitas,blanco,14
+Perro,Cooker Spaniel,Manchas,café,2
+Gato,Calicó,Moana,blanco,6
+Perro,Maltés,Brownie,pardo,27
+Gato,Persa,Linus,moteado,53
+Gato,Dorado,Bishi,café,48
+Perro,Chihuahua,Negro,gris,47
+Perro,Maltés,Linus,blanco,37
+Perro,Persa,Pulgas,blanco,16
+Gato,Chihuahua,Bishi,café,52
+Gato,Dorado,Brownie,pardo,47
+Perro,Dorado,Linus,negro,5
+Perro,Cooker Spaniel,Brownie,naranja,8
+Gato,Maltés,Manchas,pardo,60
+Perro,Chihuahua,Pulgas,blanco,60
+Gato,Pastor Inglés,Brownie,pardo,26
+Gato,Chihuahua,Manchas,moteado,49
+Perro,Pastor Inglés,Motitas,pardo,6
+Perro,Pastor Alemán,Motitas,moteado,52
+Gato,Pastor Alemán,Manchas,café,49
+Gato,Calicó,Manchas,café,36
+Perro,Persa,Linus,blanco,38
+Perro,Siames,Motitas,blanco,58
+Gato,Chihuahua,Negro,negro,44
+Perro,Pastor Inglés,Negro,negro,23
+Gato,Pastor Inglés,Linus,café,26
+Perro,Pastor Alemán,Pulgas,naranja,8
+Gato,Cooker Spaniel,Manchas,naranja,33
+Perro,Cooker Spaniel,Manchas,café,6
+Perro,Calicó,Negro,pardo,3
+Gato,Pastor Inglés,Linus,café,52
+Perro,Pastor Inglés,Bishi,negro,2
+Perro,Dorado,Bolita,moteado,10
+Gato,Siames,Brownie,naranja,3
+Perro,Chihuahua,Bishi,miel,3
+Gato,Dorado,Bishi,moteado,42
+Perro,Dorado,Pulgas,blanco,57
+Perro,Maltés,Linus,gris,17
+Gato,Pastor Inglés,Pulgas,naranja,36
+Perro,Chihuahua,Moana,moteado,12
+Perro,Cooker Spaniel,Motitas,miel,47
+Gato,Pastor Alemán,Bishi,moteado,3
+Perro,Siames,Pulgas,café,22
+Perro,Pastor Alemán,Negro,café,42
+Perro,Calicó,Bishi,gris,47
+Perro,Dorado,Brownie,blanco,6
+Gato,Maltés,Moana,café,12
+Perro,Chihuahua,Motitas,gris,16
+Gato,Persa,Manchas,blanco,20
+Perro,Maltés,Bishi,gris,34
+Perro,Siames,Pulgas,miel,6
+Perro,Chihuahua,Manchas,negro,48
+Perro,Siames,Pulgas,naranja,39
+Perro,Persa,Motitas,pardo,48
+Gato,Pastor Inglés,Moana,moteado,21
+Gato,Maltés,Linus,miel,10
+Gato,Chihuahua,Bolita,blanco,12
+Perro,Calicó,Brownie,miel,7
+Gato,Calicó,Negro,moteado,49
+Gato,Pastor Inglés,Linus,moteado,43
+Perro,Chihuahua,Manchas,pardo,27
+Perro,Dorado,Linus,café,12
+Gato,Pastor Alemán,Pulgas,negro,30
+Gato,Cooker Spaniel,Negro,blanco,13
+Gato,Cooker Spaniel,Bolita,gris,8
+Gato,Persa,Brownie,naranja,47
+Gato,Persa,Brownie,gris,1
+Perro,Pastor Inglés,Motitas,café,45
+Perro,Maltés,Manchas,moteado,40
+Gato,Persa,Pulgas,naranja,37
+Perro,Siames,Pulgas,café,37
+Perro,Dorado,Bolita,gris,42
+Gato,Calicó,Linus,moteado,60
+Gato,Pastor Inglés,Bishi,moteado,6
+Gato,Dorado,Moana,moteado,39
+Gato,Cooker Spaniel,Manchas,pardo,42
+Gato,Persa,Negro,moteado,13
+Gato,Persa,Motitas,café,52
+Perro,Chihuahua,Bishi,naranja,8
+Gato,Maltés,Pulgas,miel,7
+Perro,Calicó,Negro,café,13
+Perro,Maltés,Brownie,pardo,17
+Gato,Calicó,Pulgas,moteado,11
+Gato,Pastor Alemán,Bolita,miel,31
+Gato,Siames,Negro,pardo,23
+Perro,Siames,Manchas,café,60
+Perro,Dorado,Pulgas,negro,39
+Gato,Siames,Bishi,blanco,53
+Perro,Cooker Spaniel,Brownie,miel,47
+Perro,Calicó,Pulgas,pardo,55
+Gato,Maltés,Linus,pardo,7
+Gato,Cooker Spaniel,Linus,naranja,60
+Perro,Chihuahua,Bolita,miel,14
+Perro,Persa,Negro,gris,13
+Perro,Pastor Alemán,Bishi,naranja,28
+Perro,Pastor Alemán,Linus,pardo,32
+Gato,Pastor Alemán,Pulgas,miel,49
+Perro,Pastor Inglés,Bolita,blanco,13
+Perro,Calicó,Pulgas,moteado,12
+Gato,Dorado,Moana,pardo,47
+Perro,Pastor Inglés,Negro,miel,37
+Perro,Persa,Moana,gris,50
+Gato,Calicó,Manchas,café,53
+Gato,Siames,Linus,naranja,6
+Gato,Calicó,Moana,moteado,41
+Perro,Pastor Alemán,Negro,moteado,23
+Gato,Maltés,Manchas,blanco,16
+Gato,Calicó,Manchas,café,29
+Perro,Cooker Spaniel,Negro,pardo,50
+Perro,Pastor Inglés,Bishi,naranja,34
+Perro,Pastor Alemán,Moana,miel,38
+Perro,Dorado,Linus,negro,7
+Perro,Persa,Manchas,gris,47
+Gato,Cooker Spaniel,Bishi,pardo,19
+Perro,Pastor Alemán,Pulgas,miel,6
+Gato,Pastor Alemán,Brownie,gris,36
+Gato,Pastor Alemán,Negro,negro,12
+Perro,Siames,Negro,negro,43
+Gato,Persa,Motitas,moteado,29
+Perro,Pastor Inglés,Pulgas,negro,3
+Gato,Chihuahua,Motitas,miel,46
+Gato,Maltés,Linus,miel,36
+Perro,Chihuahua,Bolita,pardo,12
+Perro,Calicó,Bishi,miel,32
+Perro,Maltés,Motitas,miel,40
+Perro,Chihuahua,Bishi,café,10
+Perro,Pastor Inglés,Pulgas,negro,9
+Gato,Cooker Spaniel,Linus,miel,25
+Perro,Pastor Inglés,Negro,blanco,31
+Perro,Persa,Linus,blanco,14
+Perro,Pastor Alemán,Linus,gris,54
+Gato,Pastor Alemán,Moana,gris,6
+Gato,Pastor Inglés,Motitas,gris,43
+Perro,Pastor Alemán,Pulgas,miel,60
+Gato,Cooker Spaniel,Manchas,blanco,23
+Perro,Persa,Brownie,café,22
+Perro,Chihuahua,Negro,blanco,53
+Perro,Maltés,Negro,pardo,5
+Perro,Calicó,Manchas,pardo,26
+Gato,Calicó,Negro,blanco,2
+Perro,Cooker Spaniel,Pulgas,naranja,23
+Gato,Dorado,Brownie,blanco,41
+Perro,Persa,Pulgas,café,14
+Perro,Maltés,Brownie,negro,38
+Gato,Siames,Negro,negro,2
+Gato,Pastor Alemán,Manchas,moteado,31
+Perro,Chihuahua,Bolita,miel,8
+Perro,Dorado,Motitas,pardo,27
+Perro,Calicó,Motitas,moteado,52
+Perro,Cooker Spaniel,Bishi,gris,59
+Gato,Persa,Pulgas,naranja,7
+Gato,Pastor Inglés,Negro,moteado,20
+Gato,Dorado,Bolita,café,31
+Gato,Dorado,Pulgas,pardo,21
+Perro,Persa,Linus,negro,54
+Gato,Chihuahua,Bolita,negro,55
+Gato,Chihuahua,Bishi,blanco,60
+Perro,Cooker Spaniel,Bishi,naranja,52
